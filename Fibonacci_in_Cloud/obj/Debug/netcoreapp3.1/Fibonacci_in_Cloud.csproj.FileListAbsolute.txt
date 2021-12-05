@@ -8,7 +8,6 @@ C:\Users\alber\source\repos\Fibonacci_in_Cloud\Fibonacci_in_Cloud\bin\Debug\netc
 C:\Users\alber\source\repos\Fibonacci_in_Cloud\Fibonacci_in_Cloud\bin\Debug\netcoreapp3.1\Fibonacci_in_Cloud.pdb
 C:\Users\alber\source\repos\Fibonacci_in_Cloud\Fibonacci_in_Cloud\bin\Debug\netcoreapp3.1\Fibonacci_in_Cloud.Views.dll
 C:\Users\alber\source\repos\Fibonacci_in_Cloud\Fibonacci_in_Cloud\bin\Debug\netcoreapp3.1\Fibonacci_in_Cloud.Views.pdb
-C:\Users\alber\source\repos\Fibonacci_in_Cloud\Fibonacci_in_Cloud\obj\Debug\netcoreapp3.1\Fibonacci_in_Cloud.csprojAssemblyReference.cache
 C:\Users\alber\source\repos\Fibonacci_in_Cloud\Fibonacci_in_Cloud\obj\Debug\netcoreapp3.1\Fibonacci_in_Cloud.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\alber\source\repos\Fibonacci_in_Cloud\Fibonacci_in_Cloud\obj\Debug\netcoreapp3.1\Fibonacci_in_Cloud.AssemblyInfoInputs.cache
 C:\Users\alber\source\repos\Fibonacci_in_Cloud\Fibonacci_in_Cloud\obj\Debug\netcoreapp3.1\Fibonacci_in_Cloud.AssemblyInfo.cs
@@ -36,3 +35,5 @@ C:\Users\alber\source\repos\Fibonacci_in_Cloud\Fibonacci_in_Cloud\obj\Debug\netc
 C:\Users\alber\source\repos\Fibonacci_in_Cloud\Fibonacci_in_Cloud\obj\Debug\netcoreapp3.1\Fibonacci_in_Cloud.pdb
 C:\Users\alber\source\repos\Fibonacci_in_Cloud\Fibonacci_in_Cloud\obj\Debug\netcoreapp3.1\Fibonacci_in_Cloud.genruntimeconfig.cache
 C:\Users\alber\source\repos\Fibonacci_in_Cloud\Fibonacci_in_Cloud\obj\Debug\netcoreapp3.1\Fibonacci_in_Cloud.csproj.CopyComplete
+C:\Users\alber\source\repos\Fibonacci_in_Cloud\Fibonacci_in_Cloud\obj\Debug\netcoreapp3.1\Fibonacci_in_Cloud.csproj.AssemblyReference.cache
+C:\Users\alber\source\repos\Fibonacci_in_Cloud\Fibonacci_in_Cloud\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index_do_znalezienia1.cshtml.g.cs

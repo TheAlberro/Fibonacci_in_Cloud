@@ -1,0 +1,40 @@
+version: '3'
+
+services:
+  web:    
+    container_name: web
+     stdin_open: true
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    build:      
+      context: .
+      dockerfile:  Dockerfile
+         
+    ports:
+      - "8080:80"
+    restart: always
+      
+  test:
+    container_name: test
+     stdin_open: true
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    build:      
+      context: .
+      dockerfile:  Dockerfile
+          
+    ports:
+      - "8080:80"
+      restart: always
+  prod:   
+    container_name: prod
+     stdin_open: true
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    build:      
+      context: .
+      dockerfile:  Dockerfile
+        
+    ports:
+      - "8080:80"
+      restart: always
