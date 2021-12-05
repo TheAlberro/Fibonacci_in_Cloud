@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-left">
+    <h1 class="display-4">Welcome</h1>
+    
+
+
+    <script>
+
+	 document.write( " <br> Fibonacci Series: ");
+    // declaration of the variables
+    var n1 = 0,  n2 = 1, next_num=0, i=0;
+	var exit=0;
+	while(exit==0)
+	{
+    var num = parseInt (prompt (" Enter number of element to show from Fibonacci Series "));
+
+    for ( i = 1; i <= num; i++)
+    {
+        next_num = n1 + n2; // sum of n1 and n2 into the next_num
+
+        n1 = n2; // assign the n2 value into n2
+        n2 = next_num; // assign the next_num into n2
+		if(i==num)
+		{
+		 document.write (" <br> Element " + num +" have value"+  n1); // print the n1
+		}
+    }
+	//document.write( "press 1 to repeat or another button to exit ");
+	//var exit = parseInt (prompt ("press 0 to repeat or another button to exit "));
+	 	var n1 = 0,  n2 = 1, next_num=0, i=0;
+      }
+    </script>
+</div>

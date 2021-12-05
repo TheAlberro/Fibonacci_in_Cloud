@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9mxKOBWdkTtfT8tQ4hruk/+YfDFU/j5H4kHIw1ied27QVnT4e+52MzltWHXG0Ga/3J5rXEFDaBytcNkJ92MT4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alber\\source\\repos\\Fibonacci_in_Cloud\\Fibonacci_in_Cloud\\Fibonacci_in_Cloud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
